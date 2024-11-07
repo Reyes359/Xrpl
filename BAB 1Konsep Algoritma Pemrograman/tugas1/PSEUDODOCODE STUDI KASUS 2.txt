@@ -1,0 +1,11 @@
+PSEUDOCODE STUDI KASUS 2
+NAMA:ZOEVENTINO REYES
+KELAS:X PPLG
+
+for i=1 to 10
+        if i mod 2 == 1 then{
+                 print(i adalah ganjil)
+           } else {
+                 print(i adalah genap)
+            endif
+endfor
